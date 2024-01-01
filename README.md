@@ -1,4 +1,4 @@
-Code for console based library management system micro project using C++. 
+Code for console based library management system microproject made using OOP concepts and file handling in C++. 
 Necessary data stored in two different '.csv' files. 
 First file is named "record.csv" and it contains following data: book number, book title, book author, available copies. 
 Second file is named "student_list.csv" contains following data: membership number, student name, book number of book borrowed. 
